@@ -30,7 +30,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-shanebath-cihellodjango-q52vpwdcio9.ws-eu98.gitpod.io',
                  '8000-shane-bath-ci-hello-djan-iea0o01wke.us2.codeanyapp.com',
-                 'https://git.heroku.com/sb-ci-django-todo-app.git']
+                 'sb-ci-django-todo-app.herokuapp.com']
 
 
 # Application definition
