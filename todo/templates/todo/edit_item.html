@@ -12,11 +12,10 @@
     <h1>Edit a Todo Item:</h1>
     <form method="POST">
         {% csrf_token %}
-
         {{ form.as_p }}
         <div>
             <p>
-                <button type="submit">Edit Item</button>
+                <button type="submit">Update Item</button>
             </p>
 
         </div>
